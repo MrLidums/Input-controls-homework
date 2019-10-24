@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Input controls homework</string>
+    <string name="chockolate_syrup">Chockolate syrup</string>
+    <string name="sprinkles">Sprinkles</string>
+    <string name="crushed_nuts">Crushed nuts</string>
+    <string name="cherries">Cherries</string>
+    <string name="orio_cookie_crumbies">Orio cookie crumbies</string>
+    <string name="show_toast">Show Toast</string>
 </resources>
